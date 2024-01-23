@@ -1,0 +1,127 @@
+[
+  {
+    "StoreId": 1,
+    "UserId": 6,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 1,
+    "UserId": 7,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 1,
+    "UserId": 8,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 1,
+    "UserId": 9,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 1,
+    "UserId": 10,
+    "status": "Waiting"
+  },
+  {
+    "StoreId": 2,
+    "UserId": 6,
+    "status": "Waiting"
+  },
+  {
+    "StoreId": 2,
+    "UserId": 7,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 2,
+    "UserId": 8,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 2,
+    "UserId": 9,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 2,
+    "UserId": 10,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 3,
+    "UserId": 6,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 3,
+    "UserId": 7,
+    "status": "Waiting"
+  },
+  {
+    "StoreId": 3,
+    "UserId": 8,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 3,
+    "UserId": 9,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 3,
+    "UserId": 10,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 4,
+    "UserId": 6,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 4,
+    "UserId": 7,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 4,
+    "UserId": 8,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 4,
+    "UserId": 9,
+    "status": "Waiting"
+  },
+  {
+    "StoreId": 4,
+    "UserId": 10,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 5,
+    "UserId": 6,
+    "status": "Completed"
+  },
+  {
+    "StoreId": 5,
+    "UserId": 7,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 5,
+    "UserId": 8,
+    "status": "Waiting"
+  },
+  {
+    "StoreId": 5,
+    "UserId": 9,
+    "status": "Canceled"
+  },
+  {
+    "StoreId": 5,
+    "UserId": 10,
+    "status": "Completed"
+  }
+]

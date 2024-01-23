@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HISANA Chicken",
+    "status": true,
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikdLvYYrJls_oY_h6OyzmWQLijl9qdiMFiKUmEKBWr7O7R4wmo4cwQOG5cIMQzRDT-q9rkENIWYaKIw3GoJ8JFkocS-9a98pA_u9p18521Q6rlNv_7NDs3n2dccSR8QlmPXhQk6mUONSQCTp6SHt0AH7uUBpYiaKkIVUwdB6a216GIM2gRcfWcurpEhA/w1200-h630-p-k-no-nu/Beli%201set%20Peralatan%20Hisana%20Fried%20Chicken%20Modal%20Rp.%203,7%20Juta.jpg",
+    "description": "Selamat datang di HISANA disuka destinasi terbaik untuk pencinta ayam goreng yang menginginkan cita rasa istimewa! Toko kami menawarkan pengalaman kuliner yang tak terlupakan dengan menu utama kami yang lezat dan beragam pilihan.",
+    "UserId": 1
+  },
+  {
+    "name": "Sate Taichan Maknyus",
+    "status": true,
+    "imageUrl": "https://asset-2.tstatic.net/travel/foto/bank/images/sate-taican_20170207_185659.jpg",
+    "description": "Selamat datang di Toko Sate Taichan destinasi pilihan bagi para pencinta kuliner yang menginginkan sensasi pedas dan kenikmatan unik dari sate taichan! Toko kami menawarkan pengalaman gastronomi yang tak terlupakan dengan menu utama kami yang lezat dan menggugah selera.",
+    "UserId": 2
+  },
+  {
+    "name": "Nasi Goreng Bang Ahmad",
+    "status": true,
+    "imageUrl": "https://bogorreview.com/wp-content/uploads/2023/05/AnyConv.com__nasi-goreng-rendang-uda-bimbi-bogor-utara-2.webp",
+    "description": "Nasi goreng kami menghadirkan sensasi lezat yang bikin lidah bergoyang! Dari butir nasi yang renyah hingga potongan sayuran yang segar, semuanya dipadu dengan sentuhan rahasia kami yang membuat nasi goreng ini juara. Lezatnya nasi goreng gaul ini siap memuaskan selera tanpa harus repot memasak!",
+    "UserId": 3
+  },
+  {
+    "name": "Ketoprak Setan",
+    "status": true,
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tukang_ketoprak.JPG",
+    "description": "Selamat datang di toko Ketoprak Setan, menyediakan ketoprak dengan berbagai tingkat kepedasan yang sangat menantang.",
+    "UserId": 4
+  },
+  {
+    "name": "Sayur Mang Setiawan",
+    "status": true,
+    "imageUrl": "https://cdn1-production-assets-kly.akamaized.net/medias/1025691/big/032120500_1445260042-sayur3.jpg",
+    "description": "Selamat datang di toko sayur saya, menyediakan sayur dan rempah rempah segar untuk keperluan memasak di rumah kalian, dengan harga yang bersaing dan penjual yang tampan.",
+    "UserId": 5
+  }
+]

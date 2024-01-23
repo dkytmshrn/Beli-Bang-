@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Ayam Goreng Original",
+    "imageUrl": "https://live.staticflickr.com/65535/51364535374_64b9889b7d_b.jpg",
+    "price": 15000,
+    "description": "Ayam goreng Original dengan tepung rahasia",
+    "StoreId": 1
+  },
+  {
+    "name": "Fire Chicken",
+    "imageUrl": "https://www.seriouseats.com/thmb/Efkd6pn1nhg5V5Jkpv2ns_UunlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2015__07__20150715-fried-chicken-01-6a95e8ae820a4ee4af40e05a9fc4e7e7.jpg",
+    "price": 17000,
+    "description": "Ayam goreng pedas dibalur dengan bubuk paprika dan juga cabai asli",
+    "StoreId": 1
+  },
+  {
+    "name": "Ayam Goreng Crispy",
+    "imageUrl": "https://static.toiimg.com/thumb/61589069.cms?imgsize=788682&width=800&height=800",
+    "price": 15000,
+    "description": "Ayam goreng crispy yang renyah untuk pecinta crispy",
+    "StoreId": 1
+  },
+  {
+    "name": "Taichan Kulit",
+    "imageUrl": "https://www.satetaichangoreng.com/images/s5.png",
+    "price": 18000,
+    "description": "Sate taichan yang menggunakan full kulit ayam untuk pecinta kulit",
+    "StoreId": 2
+  },
+  {
+    "name": "Taichan Paha",
+    "imageUrl": "https://www.satetaichangoreng.com/images/s1.png",
+    "price": 19000,
+    "description": "Sate taichan yang menggunakan daging paha ayam agar empuk",
+    "StoreId": 2
+  },
+  {
+    "name": "Taichan Mozzarella",
+    "imageUrl": "https://www.satetaichangoreng.com/images/taichanm.jpg",
+    "price": 23000,
+    "description": "Sate taichan yang dibalur dengan keju mozzarella",
+    "StoreId": 2
+  },
+  {
+    "name": "Nasi Goreng Spesial",
+    "imageUrl": "https://img.kurio.network/ewrCJ9eRNpljU-80vrqWDQkN7o4=/1200x675/filters:quality(80)/https://kurio-img.kurioapps.com/20/10/10/a7e9eaa0-1c22-42b0-a11f-0a5ad1d30126.jpeg",
+    "price": 20000,
+    "description": "Nasi Goreng dengan bumbu spesial ditambah dengan daging dan telur.",
+    "StoreId": 3
+  },
+  {
+    "name": "Nasi Goreng Ampela",
+    "imageUrl": "https://asset.kompas.com/crops/DByYOfv46VW6DWVhYMsT7ucpR4A=/3x0:700x465/750x500/data/photo/2020/12/30/5fec925541a47.jpg",
+    "price": 18000,
+    "description": "Nasi Goreng dengan bumbu spesial ditambah dengan ampela.",
+    "StoreId": 3
+  },
+  {
+    "name": "Nasi Goreng Seafood",
+    "imageUrl": "https://awsimages.detik.net.id/community/media/visual/2023/03/19/resep-nasi-goreng-udang-dan-bakso_43.jpeg?w=1200",
+    "price": 18000,
+    "description": "Nasi Goreng dengan bumbu spesial ditambah dengan udang.",
+    "StoreId": 3
+  },
+  {
+    "name": "Nasi Goreng Kambing",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgosVNm687esVEsw8t24qi7NDBpoKjSdOgt5cbW8tzOkpG7B6Gh-H3uqBpudwmqmzP0FqD9VS6BlctEDVkPllU1g69jqfrncwam296Qjx7qBBYcEP1olGQ2ay5AgnuQu82vnCiawcegR4arVQ4_zRdT5rGnYQw9nQtgqyjFeZdfK5FAxZX8HYS5mFivo7IU/s1800/nasi%20goreng.jpg",
+    "price": 22000,
+    "description": "Nasi Goreng dengan bumbu spesial ditambah dengan daging kambing.",
+    "StoreId": 3
+  },
+  {
+    "name": "Teh",
+    "imageUrl": "https://dcostseafood.id/wp-content/uploads/2021/12/Es-teh-tawar-manis.jpg",
+    "price": 3000,
+    "description": "Tersedia teh manis atau tawar.",
+    "StoreId": 3
+  },
+  {
+    "name": "Ketoprak Cupu",
+    "imageUrl": "https://www.finnafood.com/blog/wp-content/uploads/2023/06/16.-Cara-Buat-Ketoprak-Lengkap-dengan-Kerupuk-Udang.jpg",
+    "price": 15000,
+    "description": "Ketoprak khas kami dengan tingkat kepedasan Lv.1",
+    "StoreId": 4
+  },
+  {
+    "name": "Ketoprak Tuyul",
+    "imageUrl": "https://www.finnafood.com/blog/wp-content/uploads/2023/06/16.-Cara-Buat-Ketoprak-Lengkap-dengan-Kerupuk-Udang.jpg",
+    "price": 15000,
+    "description": "Ketoprak khas kami dengan tingkat kepedasan Lv.2",
+    "StoreId": 4
+  },
+  {
+    "name": "Ketoprak Pocong",
+    "imageUrl": "https://www.finnafood.com/blog/wp-content/uploads/2023/06/16.-Cara-Buat-Ketoprak-Lengkap-dengan-Kerupuk-Udang.jpg",
+    "price": 15000,
+    "description": "Ketoprak khas kami dengan tingkat kepedasan Lv.3",
+    "StoreId": 4
+  },
+  {
+    "name": "Ketoprak Kunti",
+    "imageUrl": "https://www.finnafood.com/blog/wp-content/uploads/2023/06/16.-Cara-Buat-Ketoprak-Lengkap-dengan-Kerupuk-Udang.jpg",
+    "price": 15000,
+    "description": "Ketoprak khas kami dengan tingkat kepedasan Lv.4",
+    "StoreId": 4
+  },
+  {
+    "name": "Ketoprak Setan",
+    "imageUrl": "https://www.finnafood.com/blog/wp-content/uploads/2023/06/16.-Cara-Buat-Ketoprak-Lengkap-dengan-Kerupuk-Udang.jpg",
+    "price": 15000,
+    "description": "Ketoprak khas kami dengan tingkat kepedasan Lv.5",
+    "StoreId": 4
+  },
+  {
+    "name": "Tempe",
+    "imageUrl": "https://fk.ui.ac.id/infosehat/wp-content/uploads/2023/04/berita-tempe-tahu.jpg",
+    "price": 5000,
+    "description": "Tempe segar dan berkualitas, harga per Pcs.",
+    "StoreId": 5
+  },
+  {
+    "name": "Tahu",
+    "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//108/MTA-44756595/no-brand_tahu-putih_full01.jpg",
+    "price": 6000,
+    "description": "Tahu segar dan berkualitas, harga per Pcs.",
+    "StoreId": 5
+  },
+  {
+    "name": "Tomat",
+    "imageUrl": "https://s3-publishing-cmn-svc-prd.s3.ap-southeast-1.amazonaws.com/article/IASOaBch0YLhbYU3YtYue/original/019312300_1573532288-Kandungan-Gizi-Tomat-yang-Bisa-Anda-Nikmati-By-Gontsova-Elena-Shutterstock_494876158.jpg",
+    "price": 7000,
+    "description": "Tomat segar dan berkualitas, harga per Kg.",
+    "StoreId": 5
+  },
+  {
+    "name": "Cabai",
+    "imageUrl": "https://asset.kompas.com/crops/GWO9se1n1duZkxbDGvfllgIlBsA=/0x0:1000x667/750x500/data/photo/2022/11/23/637dc7dacbc25.jpg",
+    "price": 12000,
+    "description": "Cabai segar dan berkualitas, harga per Kg.",
+    "StoreId": 5
+  },
+  {
+    "name": "Kembang Kol",
+    "imageUrl": "https://asset.kompas.com/crops/NbFzrsGTbVrIfY4LmJa-lZpvzYE=/0x0:1263x842/1200x800/data/photo/2021/11/08/6188f5997f4e0.jpg",
+    "price": 9000,
+    "description": "Kembang Kol segar dan berkualitas, harga per Kg.",
+    "StoreId": 5
+  },
+  {
+    "name": "Buncis",
+    "imageUrl": "https://asset-2.tstatic.net/ambon/foto/bank/images/Buncis-xx.jpg",
+    "price": 8000,
+    "description": "Kembang Kol segar dan berkualitas, harga per Kg.",
+    "StoreId": 5
+  },
+  {
+    "name": "Petai",
+    "imageUrl": "https://d1bpj0tv6vfxyp.cloudfront.net/articles/220683_17-5-2021_18-34-37.webp",
+    "price": 5000,
+    "description": "Petai segar dan berkualitas, harga per Kg.",
+    "StoreId": 5
+  }
+]
